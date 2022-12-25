@@ -1,0 +1,9 @@
+{ "Key":"Android",
+  "Platform_Name": "Android",
+  "Platform_Version": "13",
+  "DeviceName": "24191FDF6007JW",
+  "appPackage":"com.logiciel.vbate.android.app.qa",
+  "appActivity": "com.logiciel.vbate.android.app.ui.activity.loginScreen.LoginActivity",
+  "autoWebView": true
+
+}
